@@ -2,4 +2,4 @@
 Just another routeros-api wrapper
 
 ## Install?
-`composer require khairulimam/routeros-api-wrapper`
+`composer require framatt/routeros-api-wrapper`
